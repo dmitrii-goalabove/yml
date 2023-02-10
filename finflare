@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="ÜTF-8.0"?>
+<yml_catalof date="2023-02-08 18:00">
+  <shop>
+    <name>Finn Flare</name>
+    <company>Finn Flare</company>
+    <url>https://www.finn-flare.ru</url>
+    <currencies>
+        <currency id="RUB" rate="1"/>
+        </currency>
+    <categories>
+    <category id="2">Одежда</category>
+    <category id="207" parentId="2" picture="https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_30.jpg?cdn=1664366951">Поло</category>
+    <category id="210" parentId="2" picture="https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_10.jpg?cdn=1554468885">Шорты</category>
+    </categories>
+    <offers>
+        <offer id="20701" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+            <offer id="20701" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+            <name>Поло мужское BAS-20005</name>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-polo/444187/2259</url>
+            <categoryId>207</categoryId>
+            <oldprice>1799</oldprice>
+            <price>742</price>
+            <useBonuses>true</useBonuses>
+            <badge textColor="#000" bgColor="#CCFF33">-58%</badge>
+            <currencyId>RUB</currency>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_20.jpg?cdn=1652875784g</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_30.jpg?cdn=1652875784</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_50.jpg?cdn=1652875784</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_70.jpg?cdn=1652875784</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_80.jpg?cdn=1652875784</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_90.jpg?cdn=1652875784</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_100.jpg?cdn=1652875784</picture>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            <param name="Основной материал">100% хлопок</param>
+            <param name="Цвет">красный</param>
+            <param name="Вырез горловины">Отложной воротничок</param>
+            <rec title="Дополни образ">21004,21005</rec>
+        </offer>
+        <offer id="20702" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+            <name>Хлопковое поло с длинным рукавом BAS-20067</name>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-polo/616010/619/?SIZE=556</url>
+            <categoryId>27</categoryId>
+            <price>1999</price>
+            <useBonuses>true</useBonuses>
+            <currencyId>RUB</currency>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_20.jpg?cdn=1664366953</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_30.jpg?cdn=1664366953</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_40.jpg?cdn=1664366953</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_50.jpg?cdn=1664366953</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_70.jpg?cdn=1664366953</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_80.jpg?cdn=1664366953</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_100.jpg?cdn=1664366953</picture>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            <param name="Основной материал">100% хлопок</param>
+            <param name="Цвет">черный</param>
+            <param name="Вырез горловины">Воротник-стойка</param>
+            <rec title="Похожие товары">20701,20705</rec>
+            <description>Лаконичное мужское поло из натурального хлопка. Материал хорошо пропускает воздух, держит форму и не электризуется. Модель прямого кроя с воротом на кнопках и отделкой эластичной резинкой. Свободная посадка не стесняет движений. Поло доступно в больших размерах и трех базовых цветах. Подходит для стирки в машине.</description>
+            <othercolors>20703,20704</othercolors>
+        </offer>
+        <offer id="20703" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+            <name>Хлопковое поло с длинным рукавом BAS-20067</name>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-polo/616010/176445/?SIZE=556</url>
+            <categoryId>27</categoryId>
+            <price>1999</price>
+            <useBonuses>true</useBonuses>
+            <currencyId>RUB</currency>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_20.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_30.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_40.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_50.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_70.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_80.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_100.jpg?cdn=1664366951</picture>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            <param name="Основной материал">100% хлопок</param>
+            <param name="Цвет">глубокий морской синий</param>
+            <param name="Вырез горловины">Воротник-стойка</param>
+            <rec title="Похожие товары">20701,20705</rec>
+            <description>Лаконичное мужское поло из натурального хлопка. Материал хорошо пропускает воздух, держит форму и не электризуется. Модель прямого кроя с воротом на кнопках и отделкой эластичной резинкой. Свободная посадка не стесняет движений. Поло доступно в больших размерах и трех базовых цветах. Подходит для стирки в машине.</description>
+            <othercolors>20702,20704</othercolors>
+        </offer>
+        <offer id="20704" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+            <name>Хлопковое поло с длинным рукавом BAS-20067</name>
+            <url>https://www.google.com/url?q=https://www.finn-flare.ru/catalog/muzhskie-polo/616010/2072/?SIZE%3D556&sa=D&source=editors&ust=1675950100539428&usg=AOvVaw0J3Q6lPi7-wEt6Zlqi8QoV</url>
+            <categoryId>27</categoryId>
+            <price>1999</price>
+            <useBonuses>true</useBonuses>
+            <currencyId>RUB</currency>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_20.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_30.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_40.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_50.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_70.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_80.jpg?cdn=1664366951</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_100.jpg?cdn=1664366951</picture>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            <param name="Основной материал">100% хлопок</param>
+            <param name="Цвет">серо-голубой</param>
+            <param name="Вырез горловины">Воротник-стойка</param>
+            <rec title="Похожие товары">20701,20705</rec>
+            <description>Лаконичное мужское поло из натурального хлопка. Материал хорошо пропускает воздух, держит форму и не электризуется. Модель прямого кроя с воротом на кнопках и отделкой эластичной резинкой. Свободная посадка не стесняет движений. Поло доступно в больших размерах и трех базовых цветах. Подходит для стирки в машине.</description>
+            <othercolors>20702,20703</othercolors>
+        </offer>
+        <offer id="20705" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+            <name>Хлопковое поло с длинным рукавом BAS-20067</name>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-polo/584065/2168/</url>
+            <categoryId>27</categoryId>
+            <price>2799</price>
+            <useBonuses>true</useBonuses>
+            <badge textColor="#000" bgColor="#CCFF33">НОВИНКА</badge>
+            <currencyId>RUB</currency>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_20.jpg?cdn=1649234546</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_30.jpg?cdn=1649234546</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_50.jpg?cdn=1649234546</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_70.jpg?cdn=1649234546</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_80.jpg?cdn=1649234546</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_90.jpg?cdn=1649234546</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_100.jpg?cdn=1649234546</picture>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            <param name="Основной материал">100% хлопок</param>
+            <param name="Цвет">темно зеленый</param>
+            <param name="Вырез горловины">Отложной воротничок</param>
+            <rec title="Дополни образ">21001,21002,21003</rec>
+            <description>Мужская хб футболка-поло с коротким рукавом на весну. Базовая модель прямого силуэта. Молодежный фасон с принтом, не облегающий фигуру и хорошей посадкой. Соответствует стилю casual. Футболка выполнена из качественного 100% хлопка. Мягкая, приятная к телу ткань. Обеспечивает хороший воздухообмен, комфортная и удобная в носке.</description>
+        </offer>
+        <offer id="21001" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
+            <name>Шорты мужские FSC21022</name>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-polo/616010/2072/?SIZE=556</url>
+            <categoryId>210</categoryId>
+            <price>4299</price>
+            <useBonuses>true</useBonuses>
+            <badge textColor="#000" bgColor="#CCFF33">NEW</badge>
+            <currencyId>RUB</currency>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/920/800_1200_2/FSC21022B_920_100.jpg?cdn=1666094943</picture>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            <param name="Основной материал">100% хлопок</param>
+            <param name="Цвет">920 (оливковый)</param>
+            <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
+            <rec title="Дополни образ">20705</rec>
+            <othercolors>21002,21003</othercolors>
+        </offer>
+        <offer id="21001" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
+            <name>Шорты мужские FSC21022</name>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/2068/?SIZE=556</url>
+            <categoryId>210</categoryId>
+            <price>4299</price>
+            <useBonuses>true</useBonuses>
+            <badge textColor="#000" bgColor="#CCFF33">NEW</badge>
+            <currencyId>RUB</currency>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/101/800_1200_2/FSC21022B_101_100.jpg?cdn=1666094942</picture>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            <param name="Основной материал">100% хлопок</param>
+            <param name="Цвет">темно-синий</param>
+            <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
+            <rec title="Дополни образ">20705</rec>
+            <othercolors>21001,21003</othercolors>
+        </offer>
+        <offer id="21001" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
+            <name>Шорты мужские FSC21022</name>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/167937/?SIZE=556</url>
+            <categoryId>210</categoryId>
+            <price>4299</price>
+            <useBonuses>true</useBonuses>
+            <badge textColor="#000" bgColor="#CCFF33">NEW</badge>
+            <currencyId>RUB</currency>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/101/800_1200_2/FSC21022B_101_100.jpg?cdn=1666094942</picture>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            <param name="Основной материал">100% хлопок</param>
+            <param name="Цвет">светло-коричневый</param>
+            <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
+            <rec title="Дополни образ">20705</rec>
+            <othercolors>21001,21002</othercolors>
+        </offer>
+        <offer id="20701" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+            <name>Шорты мужские S19-22008</name>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/316741/2091/</url>
+            <categoryId>210</categoryId>
+            <oldprice>1942</oldprice>
+            <price>4699</price>
+            <useBonuses>true</useBonuses>
+            <badge textColor="#000" bgColor="#CCFF33">-58%</badge>
+            <currencyId>RUB</currency>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_10.jpg?cdn=1554468881</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_30.jpg?cdn=1554468881</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_50.jpg?cdn=1554468881</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_70.jpg?cdn=1554468881</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_90.jpg?cdn=1554468881</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_100.jpg?cdn=1554468881</picture>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            <param name="Основной материал">98% хлопок, 2% эластан</param>
+            <param name="Цвет">серый</param>
+            <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
+            <rec title="Дополни образ">20701</rec>
+            <othercolors>21005</othercolors>
+        </offer>
+        <offer id="20701" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+            <name>Шорты мужские S19-22008</name>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/316741/2091</url>
+            <categoryId>210</categoryId>
+            <oldprice>1942</oldprice>
+            <price>4699</price>
+            <useBonuses>true</useBonuses>
+            <badge textColor="#000" bgColor="#CCFF33">-58%</badge>
+            <currencyId>RUB</currency>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_10.jpg?cdn=1554468885</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_30.jpg?cdn=1554468885</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_50.jpg?cdn=1554468885</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_70.jpg?cdn=1554468885</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_90.jpg?cdn=1554468885</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_100.jpg?cdn=1554468885</picture>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            <param name="Основной материал">98% хлопок, 2% эластан</param>
+            <param name="Цвет">серый</param>
+            <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
+            <rec title="Дополни образ">20701</rec>
+            <othercolors>21004</othercolors>
+        </offers>
+    <offers>
+  </shop>
+</yml_catalof>
